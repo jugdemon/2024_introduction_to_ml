@@ -4,7 +4,7 @@ A one day workshop providing a gentle introduction to machine learning.
 
 # Applications
 
-This workshop has run as part of the 2024 edition of the class "Data Science for Smart Environments" (GRS35306) at Wageningen University.
+This workshop has run as part of the 2024 and 2025 edition of the class "Data Science for Smart Environments" (GRS35306) at Wageningen University.
 
 # References
 
